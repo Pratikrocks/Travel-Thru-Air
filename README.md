@@ -5,7 +5,9 @@ Steps to Run the application.
 
 # Frontend
  > cd ReactFrontend/travel_thru_air/
+ 
  > npm init
+ 
  > npm start
  
  Frontend server will be running on port 3000(default  http://localhost:3000)
